@@ -34,3 +34,7 @@ class Solution {
         
     }
 }
+
+//the above was totally correct , but we can add n and n^2 in one iteration aand the rest i good
+
+//method 2 xor , thoda tough hai 
